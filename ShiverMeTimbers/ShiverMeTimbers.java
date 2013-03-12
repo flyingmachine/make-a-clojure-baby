@@ -1,7 +1,7 @@
 /**
- * This program displays a greeting from the authors.
- * @version 1.20 2004-02-28
- * @author Cay Horstmann
+ * This program is an f'n pirate.
+ * @version 93.3341
+ * @author Your Mom
  */
 public class ShiverMeTimbers
 {
