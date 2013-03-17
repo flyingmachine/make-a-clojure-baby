@@ -1,4 +1,5 @@
-(ns learn-a-language.important-phrases)
+(ns learn-a-language.important-phrases
+  (:gen-class))
 
 ;; It's time for some German love! 
 (def german
