@@ -5,7 +5,7 @@
  */
 
 public class Conversation
-{    
+{
     public static void main(String[] args)
     {
         // The "ns1" prefix is necessary because ShyGhost belongs to
